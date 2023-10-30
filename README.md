@@ -80,8 +80,8 @@ Here we have the outcome of an Ordinary Least Squares (OLS) linear regression an
 
 
 ## Conclusions
-In conclusion, our predictive model accounts for approximately 72% of the variance in house prices which signifies a strong predictive power. The factors considered include, square footage, location, view and waterfront, which have a substantial impact on property values. It's important to keep in mind, however, that real estate is influenced by many more dynamic variables thus achieving 100% accuracy in predicting house prices is challenging. Our model’s performance is encouraging and can aid in estimating property values in King County thus providing a reliable method for both buyers and sellers. 
-Although this model is reliable, it should be used in conjunction with other information for more precise pricing decisions.
+In conclusion, the analysis of various regression models and a Random Forest model for predicting house prices has provided valuable insights into the factors influencing housing prices. The findings can be valuable for real estate professionals, prospective buyers, and other stakeholders in the housing market to make informed decisions.
+
 
 
 ## Contributors:
